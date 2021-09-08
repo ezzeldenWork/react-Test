@@ -1,0 +1,18 @@
+.filter_box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.filter_box h5 {
+  font-size: 22px;
+  font-weight: 600;
+  color: white;
+  margin: 10px 0;
+}
+.filter_box select {
+  width: 87px;
+  height: 32px;
+  background-color: #fff;
+  border-radius: 5px;
+  font-size: 20px;
+}
